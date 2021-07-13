@@ -1,17 +1,10 @@
 <p align="center">
-  <img alt="Letmeask" src="https://user-images.githubusercontent.com/81105676/125524747-5935d449-2937-4ae2-b165-10b51e273949.png" width="160px">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
-  
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
-
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
+  <img alt="Letmeask" src="![image](https://user-images.githubusercontent.com/81105676/125524927-9d934957-a02c-4531-8f6b-9ffddf964832.png)
+" width="160px">
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="https://user-images.githubusercontent.com/81105676/125524747-5935d449-2937-4ae2-b165-10b51e273949.png" />
 </h1>
 
 <br>
