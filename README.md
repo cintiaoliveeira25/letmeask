@@ -1,6 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src="![image](https://user-images.githubusercontent.com/81105676/125524927-9d934957-a02c-4531-8f6b-9ffddf964832.png)
-" width="160px">
+  <img alt="Letmeask" src="src/assets/images/logo.svg" width="160px">
 </p>
 
 <h1 align="center">
